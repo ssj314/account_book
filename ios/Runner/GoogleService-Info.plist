@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>430143724935-ok63lcs2mtrvqa25bol789j2ggc8ouq2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.430143724935-ok63lcs2mtrvqa25bol789j2ggc8ouq2</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>430143724935-jp5rk69riba0bftjraee6bib1gveb60d.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyALuGVpasDfldwZd0U_X8q2HiUBSf5KGZg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>430143724935</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.accountBook</string>
+	<key>PROJECT_ID</key>
+	<string>moneywon-f1960</string>
+	<key>STORAGE_BUCKET</key>
+	<string>moneywon-f1960.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:430143724935:ios:4c3403f4b492da48e44722</string>
+	<key>DATABASE_URL</key>
+	<string>https://moneywon-f1960-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

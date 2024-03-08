@@ -1,0 +1,6 @@
+
+class MoneyController {
+
+  String text = "";
+
+}
