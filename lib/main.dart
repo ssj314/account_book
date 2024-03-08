@@ -82,6 +82,6 @@ class _StartPage extends State<StartPage> {
 
   isInitialRun() async {
     final pref = await SharedPreferences.getInstance();
-    return true;
+    return pref.getBool("initial-run") ?? true;
   }
 }
