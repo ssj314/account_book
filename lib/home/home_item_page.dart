@@ -1,9 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
-import 'package:money_won/fn/dialog_manager.dart';
-import 'package:money_won/src/color_palette.dart';
-import 'package:money_won/src/system_value.dart';
+import '/fn/dialog_manager.dart';
+import '/src/color_palette.dart';
+import '/src/system_value.dart';
 
 
 class ItemAddPage extends StatefulWidget {

@@ -1,5 +1,5 @@
 import 'package:flutter/cupertino.dart';
-import 'package:money_won/src/color_palette.dart';
+import '/src/color_palette.dart';
 
 import '../src/system_value.dart';
 

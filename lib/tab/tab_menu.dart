@@ -1,16 +1,16 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
-import 'package:money_won/fn/account_bank_manager.dart';
-import 'package:money_won/fn/date_manager.dart';
-import 'package:money_won/fn/dialog_manager.dart';
-import 'package:money_won/fn/user_manager.dart';
-import 'package:money_won/menu/menu_bank_name_page.dart';
-import 'package:money_won/menu/menu_daily_page.dart';
-import 'package:money_won/menu/menu_yearly_page.dart';
-import 'package:money_won/profile/profile_main_page.dart';
-import 'package:money_won/src/color_palette.dart';
-import 'package:money_won/src/system_value.dart';
+import '/fn/account_bank_manager.dart';
+import '/fn/date_manager.dart';
+import '/fn/dialog_manager.dart';
+import '/fn/user_manager.dart';
+import '/menu/menu_bank_name_page.dart';
+import '/menu/menu_daily_page.dart';
+import '/menu/menu_yearly_page.dart';
+import '/profile/profile_main_page.dart';
+import '/src/color_palette.dart';
+import '/src/system_value.dart';
 
 import '../menu/menu_monthly_page.dart';
 

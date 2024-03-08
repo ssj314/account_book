@@ -1,18 +1,18 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:money_won/enum/MoneyController.dart';
-import 'package:money_won/fn/account_bank_manager.dart';
-import 'package:money_won/fn/account_manager.dart';
-import 'package:money_won/fn/date_manager.dart';
-import 'package:money_won/fn/dialog_manager.dart';
-import 'package:money_won/fn/input_manager.dart';
-import 'package:money_won/fn/money_manager.dart';
-import 'package:money_won/fn/user_manager.dart';
-import 'package:money_won/initial/initial_main.dart';
-import 'package:money_won/profile/profile_edit_name_page.dart';
-import 'package:money_won/profile/profile_edit_password_page.dart';
-import 'package:money_won/src/color_palette.dart';
-import 'package:money_won/src/system_value.dart';
+import '/enum/MoneyController.dart';
+import '/fn/account_bank_manager.dart';
+import '/fn/account_manager.dart';
+import '/fn/date_manager.dart';
+import '/fn/dialog_manager.dart';
+import '/fn/input_manager.dart';
+import '/fn/money_manager.dart';
+import '/fn/user_manager.dart';
+import '/initial/initial_main.dart';
+import '/profile/profile_edit_name_page.dart';
+import '/profile/profile_edit_password_page.dart';
+import '/src/color_palette.dart';
+import '/src/system_value.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 

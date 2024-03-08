@@ -1,5 +1,5 @@
-import 'package:money_won/factory/memo_factory.dart';
-import 'package:money_won/factory/salary_factory.dart';
+import '/factory/memo_factory.dart';
+import '/factory/salary_factory.dart';
 
 import 'consumption_factory.dart';
 import 'consumption_item_factory.dart';

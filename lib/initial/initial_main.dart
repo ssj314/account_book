@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:money_won/initial/initial_login.dart';
-import 'package:money_won/initial/initial_register.dart';
-import 'package:money_won/src/color_palette.dart';
-import 'package:money_won/src/system_value.dart';
+import '/initial/initial_login.dart';
+import '/initial/initial_register.dart';
+import '/src/color_palette.dart';
+import '/src/system_value.dart';
 
 class InitialMainPage extends StatelessWidget {
   InitialMainPage({super.key});

@@ -1,9 +1,9 @@
-import 'package:money_won/fn/date_manager.dart';
-import 'package:money_won/fn/dialog_manager.dart';
-import 'package:money_won/fn/money_manager.dart';
-import 'package:money_won/src/color_palette.dart';
-import 'package:money_won/src/system_value.dart';
-import 'package:money_won/summary/summary_inner_page.dart';
+import '/fn/date_manager.dart';
+import '/fn/dialog_manager.dart';
+import '/fn/money_manager.dart';
+import '/src/color_palette.dart';
+import '/src/system_value.dart';
+import '/summary/summary_inner_page.dart';
 import '../fn/user_manager.dart';
 import 'package:flutter/material.dart';
 

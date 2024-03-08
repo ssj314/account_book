@@ -1,10 +1,10 @@
 import 'dart:convert';
 import 'package:firebase_database/firebase_database.dart';
-import 'package:money_won/factory/account_bank_factory.dart';
-import 'package:money_won/factory/consumption_factory.dart';
-import 'package:money_won/factory/consumption_item_factory.dart';
-import 'package:money_won/factory/memo_factory.dart';
-import 'package:money_won/factory/salary_factory.dart';
+import '/factory/account_bank_factory.dart';
+import '/factory/consumption_factory.dart';
+import '/factory/consumption_item_factory.dart';
+import '/factory/memo_factory.dart';
+import '/factory/salary_factory.dart';
 
 class BankManager {
   String uid;

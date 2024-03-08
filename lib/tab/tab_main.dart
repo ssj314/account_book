@@ -1,14 +1,14 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
-import 'package:money_won/fn/account_manager.dart';
-import 'package:money_won/fn/simple_account_manager.dart';
-import 'package:money_won/fn/user_manager.dart';
-import 'package:money_won/src/color_palette.dart';
-import 'package:money_won/src/system_value.dart';
-import 'package:money_won/tab/tab_home.dart';
-import 'package:money_won/tab/tab_menu.dart';
-import 'package:money_won/tab/tab_summary.dart';
+import '/fn/account_manager.dart';
+import '/fn/simple_account_manager.dart';
+import '/fn/user_manager.dart';
+import '/src/color_palette.dart';
+import '/src/system_value.dart';
+import '/tab/tab_home.dart';
+import '/tab/tab_menu.dart';
+import '/tab/tab_summary.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class TabMain extends StatefulWidget {

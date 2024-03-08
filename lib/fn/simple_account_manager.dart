@@ -3,8 +3,8 @@ import 'dart:convert';
 import 'package:encrypt/encrypt.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_database/firebase_database.dart';
-import 'package:money_won/factory/account_factory.dart';
-import 'package:money_won/factory/simple_account_factory.dart';
+import '/factory/account_factory.dart';
+import '/factory/simple_account_factory.dart';
 
 class SimpleAccountManager {
   SimpleAccountMap? account;

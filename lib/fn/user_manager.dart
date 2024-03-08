@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'package:firebase_database/firebase_database.dart';
-import 'package:money_won/factory/user_factory.dart';
-import 'package:money_won/fn/account_bank_manager.dart';
+import '/factory/user_factory.dart';
+import '/fn/account_bank_manager.dart';
 
 class UserManager {
   String uid;

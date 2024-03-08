@@ -2,12 +2,12 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_colorpicker/flutter_colorpicker.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
-import 'package:money_won/factory/memo_factory.dart';
-import 'package:money_won/fn/account_bank_manager.dart';
-import 'package:money_won/fn/date_manager.dart';
-import 'package:money_won/fn/dialog_manager.dart';
-import 'package:money_won/fn/user_manager.dart';
-import 'package:money_won/src/system_value.dart';
+import '/factory/memo_factory.dart';
+import '/fn/account_bank_manager.dart';
+import '/fn/date_manager.dart';
+import '/fn/dialog_manager.dart';
+import '/fn/user_manager.dart';
+import '/src/system_value.dart';
 
 import '../src/color_palette.dart';
 

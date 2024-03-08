@@ -2,21 +2,16 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
-import 'package:kakao_flutter_sdk/kakao_flutter_sdk_common.dart';
-import 'package:money_won/firebase_options.dart';
-import 'package:money_won/initial/initial_login.dart';
-import 'package:money_won/initial/initial_main.dart';
-import 'package:money_won/src/color_palette.dart';
-import 'package:money_won/tab/tab_main.dart';
+import '/firebase_options.dart';
+import '/initial/initial_login.dart';
+import '/src/color_palette.dart';
+import '/tab/tab_main.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+
 
 main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
-  // KakaoSdk.init(
-  //   nativeAppKey: "bd1366bf9fa6aac72e702889b9ba1984",
-  //   javaScriptAppKey: "ba1d4601b9f9d23fef609b87ab861260"
-  // );
   runApp(MoneyWon());
 }
 
